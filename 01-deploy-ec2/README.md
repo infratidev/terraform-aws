@@ -8,20 +8,21 @@
 #### Instalação do terraform
 ##### Baixando pacote
 *Site: https://www.terraform.io/downloads.html*
-`wget https://releases.hashicorp.com/terraform/0.15.3/terraform_0.15.3_linux_amd64.zip`
+```wget https://releases.hashicorp.com/terraform/0.15.3/terraform_0.15.3_linux_amd64.zip```
 ##### Unzip no pacote
 `unzip terraform_0.15.3_linux_amd64.zip`
 ##### Movendo binário para o $PATH
 `mv terraform /usr/local/bin/`
 ##### Testando o binário
 `terraform -help`
-`Usage: terraform [-version] [-help] <command> [args]
+
+```Usage: terraform [-version] [-help] <command> [args]
 The available commands for execution are listed below.
 The most common, useful commands are shown first, followed by
 less common or more advanced commands. If you're just getting
 started with Terraform, stick with the common commands. For the
 other commands, please read the help and docs before usage.
-##...`
+##...```
 
 ##### Habilitando tab completion no zsh
 ` touch ~/.zshrc` 
