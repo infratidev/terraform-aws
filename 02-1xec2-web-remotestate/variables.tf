@@ -13,7 +13,7 @@ variable "vpc_cidr" {
 }
 
 variable "public_subnet_cidr" {
-    description = "Public Subnet InfraTI Web Server"
+    description = "Public Subnet InfraTI"
     default = "178.0.10.0/24"
 }
 
