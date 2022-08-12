@@ -23,7 +23,7 @@ variable "env" {
 }
 
 variable "name" {
-  description = "Nome da aplicação"
+  description = "Nome da aplicacao InfraTI"
   default     = "infrati-ec2server01"
 }
 
