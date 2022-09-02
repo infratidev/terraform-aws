@@ -3,12 +3,14 @@
 ### Usando terraform AWS
 
 ### Contents 
-  - [01-deploy-ec2](01-deploy-ec2/README.md)
-  - [02-remote-state-s3-dynamo](02-remote-state-s3-dynamodb/README.md)
-  - [03-ec2-webserver-remote-state](03-ec2-webserver-remote-state/README.md)
-  - [04-3xec2-public-alb-maz](04-3xec2-public-alb-maz/README.md)
-  - [05-1xbastion-2xprivate-ec2-alb-maz-userdata](05-1xbastion-2xprivate-ec2-alb-maz-userdata/README.md)
-  - [06-1xbastion-2xprivate-ec2-alb-maz-local-exec](06-1xbastion-2xprivate-ec2-alb-maz-local-exec/README.md)
+  - [01-deploy-ec2](01-deploy-ec2/)
+  - [02-remote-state-s3-dynamo](02-remote-state-s3-dynamodb/)
+  - [03-ec2-webserver-remote-state](03-ec2-webserver-remote-state/)
+  - [04-3xec2-public-alb-maz](04-3xec2-public-alb-maz/)
+  - [05-1xbastion-2xprivate-ec2-alb-maz-userdata](05-1xbastion-2xprivate-ec2-alb-maz-userdata/)
+  - [06-1xbastion-2xprivate-ec2-alb-maz-local-exec](06-1xbastion-2xprivate-ec2-alb-maz-local-exec/)
+  - [07-remote-state-packer-aws](07-remote-state-packer-aws/)
+  - [08-remote-state-infracost](08-remote-state-infracost/)
 
 <br>
 
